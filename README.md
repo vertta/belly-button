@@ -13,6 +13,7 @@ The following tasks were completed:
 * Use sample_values as the values for the bar chart with labels
 * otu_labels as the hovertext for the chart.
 
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/75756974/196347714-b7579cab-54b5-4d16-83a9-84bb3d3375a5.png">
 
 
 
@@ -26,8 +27,12 @@ The following tasks were completed:
 
 <img width="886" alt="image" src="https://user-images.githubusercontent.com/75756974/196347887-b6abaa90-56ab-472a-b3cd-32af4a1b491d.png">
 
-Display each key-value pair from the metadata JSON object somewhere on the page.
-<img width="512" alt="image" src="https://user-images.githubusercontent.com/75756974/196347714-b7579cab-54b5-4d16-83a9-84bb3d3375a5.png">
+Display each key-value pair from the metadata JSON object somewhere on the page. 
+
+Bellow is the full dashboard 
+
+<img width="718" alt="image" src="https://user-images.githubusercontent.com/75756974/196569204-a1b57de2-c30a-4d53-9223-15f895fdfc3a.png">
+
 
 
 
